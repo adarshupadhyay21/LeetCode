@@ -8,9 +8,9 @@ class Solution {
 
             if(nums[left] <= nums[mid]) {
                 if(nums[left] <= target && target < nums[mid]) {
-                    right = mid - 1; // Search left
+                    right = mid - 1; 
                 } else {
-                    left = mid + 1; // Search right
+                    left = mid + 1; 
                 }
             }
             else {
