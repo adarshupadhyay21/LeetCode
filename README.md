@@ -34,4 +34,12 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
