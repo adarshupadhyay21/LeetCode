@@ -30,6 +30,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adarshupadhyay21/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
 ## Sorting
 |  |
@@ -51,6 +52,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/adarshupadhyay21/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3396-valid-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/3396-valid-word) |
 ## Sliding Window
@@ -61,4 +63,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adarshupadhyay21/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
