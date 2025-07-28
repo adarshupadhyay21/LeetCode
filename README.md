@@ -28,6 +28,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 ## Linked List
 |  |
 | ------- |
@@ -61,6 +63,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0005-longest-palindromic-substring](https://github.com/adarshupadhyay21/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [3396-valid-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
@@ -95,6 +98,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Recursion
 |  |
