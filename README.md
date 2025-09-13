@@ -56,6 +56,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0058-length-of-last-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [3396-valid-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/3396-valid-word) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,4 +106,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0143-reorder-list) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
