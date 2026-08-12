@@ -27,6 +27,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -35,6 +36,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adarshupadhyay21/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
