@@ -25,6 +25,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -61,6 +62,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
