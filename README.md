@@ -32,6 +32,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adarshupadhyay21/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 ## Linked List
 |  |
@@ -67,6 +69,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0001-two-sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -122,6 +125,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quicksort
 |  |
@@ -131,4 +135,12 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
