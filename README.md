@@ -39,6 +39,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adarshupadhyay21/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshupadhyay21/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -148,4 +150,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
