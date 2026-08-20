@@ -42,6 +42,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adarshupadhyay21/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshupadhyay21/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -81,6 +82,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -168,4 +170,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
