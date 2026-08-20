@@ -32,6 +32,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0031-next-permutation](https://github.com/adarshupadhyay21/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/adarshupadhyay21/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adarshupadhyay21/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshupadhyay21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adarshupadhyay21/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
@@ -160,6 +162,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
