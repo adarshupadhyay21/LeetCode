@@ -35,6 +35,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshupadhyay21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0136-single-number) |
@@ -109,6 +110,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0005-longest-palindromic-substring](https://github.com/adarshupadhyay21/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/adarshupadhyay21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshupadhyay21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
