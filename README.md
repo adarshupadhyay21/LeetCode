@@ -35,6 +35,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshupadhyay21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/adarshupadhyay21/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -64,6 +66,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
