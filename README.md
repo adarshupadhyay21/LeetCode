@@ -40,6 +40,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshupadhyay21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/adarshupadhyay21/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
@@ -118,6 +119,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adarshupadhyay21/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/adarshupadhyay21/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
