@@ -30,6 +30,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0015-3sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/adarshupadhyay21/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/adarshupadhyay21/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/adarshupadhyay21/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adarshupadhyay21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
@@ -186,4 +187,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/adarshupadhyay21/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
