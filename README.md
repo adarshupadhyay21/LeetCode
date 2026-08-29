@@ -106,6 +106,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
+| [1446-consecutive-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/1446-consecutive-characters) |
 | [3396-valid-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/3396-valid-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
