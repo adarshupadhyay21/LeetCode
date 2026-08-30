@@ -51,6 +51,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshupadhyay21/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -150,6 +151,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Recursion
 |  |
