@@ -61,6 +61,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0371-sum-of-two-integers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
