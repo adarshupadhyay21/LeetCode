@@ -99,6 +99,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0066-plus-one](https://github.com/adarshupadhyay21/LeetCode/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3870-count-commas-in-range](https://github.com/adarshupadhyay21/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
