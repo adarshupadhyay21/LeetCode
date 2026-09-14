@@ -100,6 +100,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0048-rotate-image](https://github.com/adarshupadhyay21/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adarshupadhyay21/LeetCode/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0836-rectangle-overlap](https://github.com/adarshupadhyay21/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3870-count-commas-in-range](https://github.com/adarshupadhyay21/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -233,4 +234,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adarshupadhyay21/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
