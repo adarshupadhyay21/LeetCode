@@ -41,6 +41,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0056-merge-intervals](https://github.com/adarshupadhyay21/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adarshupadhyay21/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0118-pascals-triangle) |
@@ -228,6 +229,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshupadhyay21/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarshupadhyay21/LeetCode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/1539-kth-missing-positive-number) |
