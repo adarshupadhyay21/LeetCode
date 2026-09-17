@@ -57,6 +57,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/adarshupadhyay21/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
@@ -233,6 +234,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Heap (Priority Queue)
