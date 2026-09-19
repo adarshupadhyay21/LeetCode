@@ -109,6 +109,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0371-sum-of-two-integers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/adarshupadhyay21/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/adarshupadhyay21/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -138,6 +139,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1446-consecutive-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/1446-consecutive-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3396-valid-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/3396-valid-word) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -181,6 +183,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
+| [1903-largest-odd-number-in-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Recursion
