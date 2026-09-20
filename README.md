@@ -141,6 +141,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [1446-consecutive-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3396-valid-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/3396-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -222,6 +223,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
