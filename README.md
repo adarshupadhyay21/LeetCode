@@ -68,6 +68,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarshupadhyay21/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -114,6 +115,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0836-rectangle-overlap](https://github.com/adarshupadhyay21/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarshupadhyay21/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/adarshupadhyay21/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
