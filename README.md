@@ -61,6 +61,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/adarshupadhyay21/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshupadhyay21/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshupadhyay21/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -250,6 +251,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0367-valid-perfect-square](https://github.com/adarshupadhyay21/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/adarshupadhyay21/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshupadhyay21/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
