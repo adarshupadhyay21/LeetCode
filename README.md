@@ -65,6 +65,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshupadhyay21/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshupadhyay21/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -132,6 +133,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -146,6 +148,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1446-consecutive-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/1446-consecutive-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3396-valid-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/3396-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
