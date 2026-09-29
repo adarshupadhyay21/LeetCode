@@ -40,6 +40,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adarshupadhyay21/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adarshupadhyay21/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adarshupadhyay21/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -188,6 +189,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0048-rotate-image](https://github.com/adarshupadhyay21/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
@@ -251,6 +253,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshupadhyay21/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarshupadhyay21/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0162-find-peak-element) |
