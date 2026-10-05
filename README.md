@@ -116,6 +116,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0012-integer-to-roman](https://github.com/adarshupadhyay21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/adarshupadhyay21/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/adarshupadhyay21/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adarshupadhyay21/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/adarshupadhyay21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/adarshupadhyay21/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -221,6 +222,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/adarshupadhyay21/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0143-reorder-list) |
 ## Counting
 |  |
