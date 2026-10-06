@@ -154,6 +154,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0012-integer-to-roman](https://github.com/adarshupadhyay21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -180,6 +181,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adarshupadhyay21/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/adarshupadhyay21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/adarshupadhyay21/LeetCode/tree/master/0070-climbing-stairs) |
@@ -308,6 +310,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshupadhyay21/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -315,4 +318,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adarshupadhyay21/LeetCode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
