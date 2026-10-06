@@ -191,6 +191,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/adarshupadhyay21/LeetCode/tree/master/0190-reverse-bits) |
 | [0371-sum-of-two-integers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Stack
 |  |
@@ -250,6 +251,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0004-median-of-two-sorted-arrays](https://github.com/adarshupadhyay21/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/adarshupadhyay21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/adarshupadhyay21/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
