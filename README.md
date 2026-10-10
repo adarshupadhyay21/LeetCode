@@ -94,6 +94,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0143-reorder-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -161,6 +162,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0058-length-of-last-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshupadhyay21/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/1446-consecutive-characters) |
