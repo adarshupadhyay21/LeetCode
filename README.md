@@ -75,6 +75,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adarshupadhyay21/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarshupadhyay21/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -329,4 +330,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0022-generate-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/adarshupadhyay21/LeetCode/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adarshupadhyay21/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
