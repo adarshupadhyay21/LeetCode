@@ -125,6 +125,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0070-climbing-stairs](https://github.com/adarshupadhyay21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/adarshupadhyay21/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/adarshupadhyay21/LeetCode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/adarshupadhyay21/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -164,6 +165,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0151-reverse-words-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/adarshupadhyay21/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshupadhyay21/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1446-consecutive-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/1446-consecutive-characters) |
@@ -270,6 +272,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/adarshupadhyay21/LeetCode/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
