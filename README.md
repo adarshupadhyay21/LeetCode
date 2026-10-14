@@ -64,6 +64,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0485-max-consecutive-ones](https://github.com/adarshupadhyay21/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adarshupadhyay21/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -110,6 +111,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
@@ -147,6 +149,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshupadhyay21/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/adarshupadhyay21/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -181,6 +184,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -245,6 +249,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshupadhyay21/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarshupadhyay21/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quicksort
