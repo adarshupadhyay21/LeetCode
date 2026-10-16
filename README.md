@@ -127,6 +127,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0050-powx-n](https://github.com/adarshupadhyay21/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/adarshupadhyay21/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/adarshupadhyay21/LeetCode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/adarshupadhyay21/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/adarshupadhyay21/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/adarshupadhyay21/LeetCode/tree/master/0412-fizz-buzz) |
@@ -169,6 +170,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0032-longest-valid-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/adarshupadhyay21/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/adarshupadhyay21/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/adarshupadhyay21/LeetCode/tree/master/0412-fizz-buzz) |
