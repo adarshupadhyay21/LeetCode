@@ -346,4 +346,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarshupadhyay21/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/adarshupadhyay21/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
