@@ -36,6 +36,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarshupadhyay21/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/adarshupadhyay21/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/adarshupadhyay21/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adarshupadhyay21/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0054-spiral-matrix) |
@@ -342,6 +343,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0022-generate-parentheses](https://github.com/adarshupadhyay21/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/adarshupadhyay21/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/adarshupadhyay21/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/adarshupadhyay21/LeetCode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Enumeration
