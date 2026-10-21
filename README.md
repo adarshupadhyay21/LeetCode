@@ -57,6 +57,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0162-find-peak-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -129,6 +130,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0066-plus-one](https://github.com/adarshupadhyay21/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/adarshupadhyay21/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/adarshupadhyay21/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/adarshupadhyay21/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/adarshupadhyay21/LeetCode/tree/master/0412-fizz-buzz) |
@@ -350,9 +352,26 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adarshupadhyay21/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Database
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/adarshupadhyay21/LeetCode/tree/master/0182-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
