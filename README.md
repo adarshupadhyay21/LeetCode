@@ -62,6 +62,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/adarshupadhyay21/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -113,6 +114,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -233,6 +235,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0074-search-a-2d-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/adarshupadhyay21/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
@@ -309,6 +312,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0162-find-peak-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/adarshupadhyay21/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adarshupadhyay21/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -320,6 +324,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
