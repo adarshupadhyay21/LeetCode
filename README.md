@@ -201,6 +201,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarshupadhyay21/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -381,4 +382,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0204-count-primes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
