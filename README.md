@@ -72,6 +72,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adarshupadhyay21/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1089-duplicate-zeros](https://github.com/adarshupadhyay21/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adarshupadhyay21/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adarshupadhyay21/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -102,6 +103,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0151-reverse-words-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/adarshupadhyay21/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1089-duplicate-zeros](https://github.com/adarshupadhyay21/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshupadhyay21/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
