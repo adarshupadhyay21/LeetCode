@@ -69,6 +69,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/adarshupadhyay21/LeetCode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/adarshupadhyay21/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adarshupadhyay21/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -199,6 +200,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshupadhyay21/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/adarshupadhyay21/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
