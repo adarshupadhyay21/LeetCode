@@ -125,12 +125,14 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/adarshupadhyay21/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/adarshupadhyay21/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/adarshupadhyay21/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adarshupadhyay21/LeetCode/tree/master/0050-powx-n) |
@@ -262,6 +264,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/adarshupadhyay21/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/adarshupadhyay21/LeetCode/tree/master/0143-reorder-list) |
 ## Counting
