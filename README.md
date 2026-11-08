@@ -164,6 +164,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0128-longest-consecutive-sequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshupadhyay21/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/adarshupadhyay21/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -190,6 +191,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | [0168-excel-sheet-column-title](https://github.com/adarshupadhyay21/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/adarshupadhyay21/LeetCode/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/adarshupadhyay21/LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -275,6 +277,7 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 | ------- |
 | [0169-majority-element](https://github.com/adarshupadhyay21/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adarshupadhyay21/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/adarshupadhyay21/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/adarshupadhyay21/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/adarshupadhyay21/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -400,4 +403,8 @@ Feel free to clone, browse, or use this as inspiration for your own LeetCode jou
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/adarshupadhyay21/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshupadhyay21/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
